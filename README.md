@@ -1,5 +1,5 @@
 # udemy-python-bootcamp
-My first steps in Python, trying to achive some practice.
+My first steps in Python, trying to achieve some practice.
 
 This will contain:
 
